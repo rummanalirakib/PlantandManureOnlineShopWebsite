@@ -1,4 +1,4 @@
-# PlantandManureOnlineShopWebsite (C# Project)
+# PlantandManureOnlineShopWebsite
 
 1. User-Friendly Interface: The website has an intuitive and user-friendly interface that allows customers to easily navigate through various sections and find the products they need.
 
@@ -21,5 +21,3 @@
 10. Inventory Management: The admin can efficiently track and manage inventory levels, ensuring that popular items are replenished in a timely manner.
 
 11. Search and Filter Options: Customers can easily search for specific products using keywords and apply filters to refine their product searches based on categories, price range, availability, etc.
-
-# Note: This project was done during the beginning of university life. That time was not aware of handling the naming conventions
